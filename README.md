@@ -20,3 +20,7 @@ Input:
 
 Output:
 - Hemodynamic indicators (e.g., TAWSS)
+
+## Example data
+
+Example data for running the code can be downloaded from the v1.0 release (MHUnet_example_data.zip, approx. 1.4 GB). Download the file from the Assets section of the release page and unzip it into the repository root before running the scripts
